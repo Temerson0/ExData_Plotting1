@@ -1,4 +1,4 @@
-# plot1.R - Plots a histogram of global active power for the dates 2007-01-01 and 2007-01-02.
+# plot1.R - Plots a histogram of global active power for the dates 2007-02-01 and 2007-02-02.
 
 # Use the data.table package instead of data.frame
 #
